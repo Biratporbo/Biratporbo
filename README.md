@@ -56,7 +56,6 @@ Focusing on clean code, SOLID principles, maintainability, and long-term system 
 
 
 ## 📊 GitHub Stats & Trophies
-## 📊 GitHub Stats & Trophies
 
 <div align="center">
 
