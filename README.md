@@ -55,7 +55,7 @@ Focusing on clean code, SOLID principles, maintainability, and long-term system 
 - Continuous Technical Growth
 
 
-## 📊 GitHub Stats & Trophies
+# 📊 GitHub Stats & Trophies
 
 <div align="center">
 
