@@ -56,18 +56,30 @@ Focusing on clean code, SOLID principles, maintainability, and long-term system 
 
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Biratporbo">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Biratporbo&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="Biratporbo's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Biratporbo&theme=dracula&hide_border=true&cache_seconds=86400" alt="Biratporbo's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Biratporbo&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Birat's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Biratporbo&theme=dracula&radius=10" alt="Biratporbo's Activity Graph" />
-</p>
+## 📊 GitHub Stats & Trophies
+
+<div align="center">
+
+  <!-- Top Stats Card -->
+  <img height="190em"
+       src="https://github-readme-stats-eight-theta.vercel.app/api?username=Biratporbo&layout=compact&theme=dracula&border_radius=12&hide_border=true&cache_seconds=3600" />
+
+  <br><br>
+
+  <!-- Streak & Trophies Row -->
+  <img width="55%"
+       src="https://streak-stats.demolab.com/?user=Biratporbo&theme=dracula&hide_border=true&border_radius=12&cache_seconds=21600" />
+
+  <img width="80%"
+       src="https://trophy.ryglcloud.net/?username=Biratporbo&theme=dracula&no-frame=true&no-bg=true&margin-w=8&cache_seconds=21600" />
+
+  <br><br>
+
+  <!-- Activity Graph -->
+  <img width="95%"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=Biratporbo&theme=dracula&hide_border=true&radius=12&cache_seconds=3600" />
+
+</div>
 
 
 ## 🛠️ Languages & Tools
