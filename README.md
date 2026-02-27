@@ -60,7 +60,7 @@ Focusing on clean code, SOLID principles, maintainability, and long-term system 
 <div align="center">
 
   <!-- Top Stats Card -->
-  <img height="190em"
+  <img height="170em"
        src="https://github-readme-stats-eight-theta.vercel.app/api?username=Biratporbo&layout=compact&theme=dracula&border_radius=12&hide_border=true&cache_seconds=3600" />
 
   <br><br>
