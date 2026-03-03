@@ -66,7 +66,7 @@ Focusing on clean code, SOLID principles, maintainability, and long-term system 
   <br><br>
 
   <!-- Streak & Trophies Row -->
-  <img width="55%"
+  <img width="58%"
        src="https://streak-stats.demolab.com/?user=Biratporbo&theme=dracula&hide_border=true&border_radius=12&cache_seconds=180" />
 
   <img width="80%"
