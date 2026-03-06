@@ -54,6 +54,7 @@ Focusing on clean code, SOLID principles, maintainability, and long-term system 
 - Production-Grade Code Standards
 - Continuous Technical Growth
 
+---
 
 # 📊 GitHub Stats & Trophies
 
@@ -80,8 +81,9 @@ Focusing on clean code, SOLID principles, maintainability, and long-term system 
 
 </div>
 
+---
 
-## 🛠️ Languages & Tools
+# 🛠️ Languages & Tools
 
 > ## Programming Languages
 <p align="center">
