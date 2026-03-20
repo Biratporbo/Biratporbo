@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
 
 # 💫 About Me
 
@@ -22,64 +22,6 @@ Currently a 3rd-year BCA student focused on backend engineering, system design, 
 💡 **Focus areas:** Enterprise Java, Microservices, Clean Architecture, Performance Optimization  
 🎯 **Goal:** Become a Principal Software Architect designing scalable enterprise infrastructure  
 ⚡ **Philosophy:** Design for scale. Build for reliability. Optimize for impact.  
-
----
-
-# 🚀 Blueprint to Production
-
-## 🏗️ Enterprise Backend Systems
-Developing scalable Java applications using Spring Boot with layered architecture, security, and production-level standards.
-
-## ⚙️ Microservices Architecture
-Designing distributed services with proper API contracts, database optimization, and service communication patterns.
-
-## 📊 System Design & Performance
-Studying high-scale system design, database indexing strategies, caching, and performance tuning.
-
-## 🧠 Architecture Mindset
-Focusing on clean code, SOLID principles, maintainability, and long-term system evolution.
-
----
-
-# 🎯 My Focus Areas
-
-- Enterprise Java Development
-- Scalable System Architecture
-- Microservices & Distributed Systems
-- REST API Design
-- Database Optimization
-- Performance Engineering
-- Clean Architecture & SOLID Principles
-- Cloud-Ready Applications
-- Production-Grade Code Standards
-- Continuous Technical Growth
-
----
-
-# 📊 GitHub Stats & Trophies
-
-<div align="center">
-
-  <!-- Top Stats Card -->
-  <img height="170em"
-       src="https://github-readme-stats-eight-theta.vercel.app/api?username=Biratporbo&layout=compact&theme=dracula&border_radius=12&hide_border=true&cache_seconds=180" />
-
-  <br><br>
-
-  <!-- Streak & Trophies Row -->
-  <img width="58%"
-       src="https://streak-stats.demolab.com/?user=Biratporbo&theme=dracula&hide_border=true&border_radius=12&cache_seconds=180" />
-
-  <img width="80%"
-       src="https://trophy.ryglcloud.net/?username=Biratporbo&theme=dracula&no-frame=true&no-bg=true&margin-w=8&cache_seconds=180" />  <!-- cache_seconds sometimes 180/3600 -->
-
-  <br><br>
-
-  <!-- Activity Graph -->
-  <img width="95%"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=Biratporbo&theme=dracula&hide_border=true&radius=12&cache_seconds=3600" />
-
-</div>
 
 ---
 
@@ -139,11 +81,71 @@ Focusing on clean code, SOLID principles, maintainability, and long-term system 
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </p>
 
-<p align="center">
+---
+
+# 🚀 Blueprint to Production
+
+## 🏗️ Enterprise Backend Systems
+Developing scalable Java applications using Spring Boot with layered architecture, security, and production-level standards.
+
+## ⚙️ Microservices Architecture
+Designing distributed services with proper API contracts, database optimization, and service communication patterns.
+
+## 📊 System Design & Performance
+Studying high-scale system design, database indexing strategies, caching, and performance tuning.
+
+## 🧠 Architecture Mindset
+Focusing on clean code, SOLID principles, maintainability, and long-term system evolution.
+
+---
+
+# 🎯 My Focus Areas
+
+- Enterprise Java Development
+- Scalable System Architecture
+- Microservices & Distributed Systems
+- REST API Design
+- Database Optimization
+- Performance Engineering
+- Clean Architecture & SOLID Principles
+- Cloud-Ready Applications
+- Production-Grade Code Standards
+- Continuous Technical Growth
+
+---
+
+# 📊 GitHub Stats & Trophies
+
+<div align="center">
+
+  <!-- Top Stats Card -->
+  <img height="170em"
+       src="https://github-readme-stats-eight-theta.vercel.app/api?username=Biratporbo&layout=compact&theme=dracula&border_radius=12&hide_border=true&cache_seconds=180" />
+
+  <br>
+  
+  <p align="center">
   <a href="https://github.com/Biratporbo">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Biratporbo&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
   </a>
-</p>
+  </p>
+
+  <!-- Streak & Trophies Row -->
+  <img width="58%"
+       src="https://streak-stats.demolab.com/?user=Biratporbo&theme=dracula&hide_border=true&border_radius=12&cache_seconds=180" />
+
+  <img width="80%"
+       src="https://trophy.ryglcloud.net/?username=Biratporbo&theme=dracula&no-frame=true&no-bg=true&margin-w=8&cache_seconds=180" />  <!-- cache_seconds sometimes 180/3600 -->
+
+  <br><br>
+
+  <!-- Activity Graph -->
+  <img width="95%"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=Biratporbo&theme=dracula&hide_border=true&radius=12&cache_seconds=3600" />
+
+</div>
+
+---
 
 ## 🔗 Connect with Me
 <p align="center"> <a href="https://www.linkedin.com/in/birat-dey-b74881281/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Birat's LinkedIn"/></a> <a href="https://x.com/BiratDey10" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Birat's Twitter"/></a> <a href="mailto:biratdey200311@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Birat's Email"/></a> <a href="https://subtle-lily-12a4a0.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a> <a href="https://leetcode.com/u/Biratporbo/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Birat's LeetCode"/>
