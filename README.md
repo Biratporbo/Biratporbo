@@ -119,28 +119,24 @@ Focusing on clean code, SOLID principles, maintainability, and long-term system 
 <div align="center">
 
   <!-- Top Stats Card -->
-  <img height="170em"
-       src="https://github-readme-stats-eight-theta.vercel.app/api?username=Biratporbo&layout=compact&theme=dracula&border_radius=12&hide_border=true&cache_seconds=180" />
-
-  <br>
+  <img height="180" 
+       src="https://github-readme-stats-eight-theta.vercel.app/api?username=Biratporbo&show_icons=true&layout=compact&theme=dracula&border_radius=12&hide_border=true&cache_seconds=180" />
 
   <!---Programming Language Stats Board--->
   <p align="center">
   <a href="https://github.com/Biratporbo">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Biratporbo&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
+    <img height="210em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Biratporbo&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
   </a>
   </p>
-
-  <br>
   
   <!-- Streak & Trophies Row -->
-  <img width="58%"
+<div align="center">
+  <img height="185" 
        src="https://streak-stats.demolab.com/?user=Biratporbo&theme=dracula&hide_border=true&border_radius=12&cache_seconds=180" />
 
-  <img width="80%"
-       src="https://trophy.ryglcloud.net/?username=Biratporbo&theme=dracula&no-frame=true&no-bg=true&margin-w=8&cache_seconds=180" />  <!-- cache_seconds sometimes 180/3600 -->
-
-  <br>
+  <img height="185" 
+       src="https://trophy.ryglcloud.net/?username=Biratporbo&theme=dracula&no-frame=true&no-bg=true&margin-w=8&cache_seconds=180" /> <!-- cache_seconds sometimes 180/3600 -->
+</div>
 
   <!-- Activity Graph -->
   <img width="95%"
