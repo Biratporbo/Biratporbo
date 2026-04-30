@@ -168,7 +168,7 @@ Always open to meaningful technical discussions and collaboration.
 
 
 <p align="center">
-⭐️ Crafted with 💻 & ☕ by <a href="https://github.com/Biratporbo" target="_blank">Biratporbo</a>
+❤️ Crafted with 💻 & ☕ by <a href="https://github.com/Biratporbo" target="_blank">Biratporbo</a>
 </p>
 
 <div align="center">
