@@ -120,12 +120,12 @@ Focusing on clean code, SOLID principles, maintainability, and long-term system 
 
   <!-- Top Stats Card -->
   <img height="180" 
-       src="https://github-readme-stats-eight-theta.vercel.app/api?username=Biratporbo&show_icons=true&layout=compact&theme=dracula&border_radius=12&hide_border=true&cache_seconds=180" />
+       src="https://github-readme-stats-eight-theta.vercel.app/api?username=Biratporbo&show_icons=true&layout=compact&theme=prussian&border_radius=12&hide_border=true&cache_seconds=180" />
 
   <!---Programming Language Stats Board--->
   <p align="center">
   <a href="https://github.com/Biratporbo">
-    <img height="210em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Biratporbo&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
+    <img height="210em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Biratporbo&langs_count=8&layout=compact&theme=prussian&border_radius=10" alt="Top Languages" />
   </a>
   </p>
   
@@ -134,12 +134,12 @@ Focusing on clean code, SOLID principles, maintainability, and long-term system 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Biratporbo&theme=prussian" alt="GitHub Streak" /></a>
 
   <img height="185" 
-       src="https://trophy.ryglcloud.net/?username=Biratporbo&theme=dracula&no-frame=true&no-bg=true&margin-w=8&cache_seconds=180"/> <!-- cache_seconds sometimes 180/3600 -->
+       src="https://trophy.ryglcloud.net/?username=Biratporbo&theme=prussian&no-frame=true&no-bg=true&margin-w=8&cache_seconds=180"/> <!-- cache_seconds sometimes 180/3600 -->
 </div>
 
   <!-- Activity Graph -->
   <img width="95%"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=Biratporbo&theme=dracula&hide_border=true&radius=12&cache_seconds=3600" />
+       src="https://github-readme-activity-graph.vercel.app/graph?username=Biratporbo&theme=prussian&hide_border=true&radius=12&cache_seconds=3600" />
 
 </div>
 
