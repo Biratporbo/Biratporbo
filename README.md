@@ -15,7 +15,7 @@
 # 💫 About Me
 
 I'm passionate about building scalable, resilient enterprise systems that solve real-world problems.  
-Currently a 3rd-year BCA student focused on backend engineering, system design, and production-grade Java development.
+Currently a Pre-Final Year BCA student focused on backend engineering, system design, and production-grade Java development.
 
 🔭 **Currently working on:** Microservices-based backend systems and production-ready REST APIs  
 🌱 **Currently learning:** Advanced DSA in Java, system design, and distributed architecture  
