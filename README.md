@@ -134,7 +134,7 @@ Focusing on clean code, SOLID principles, maintainability, and long-term system 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Biratporbo&theme=dark" alt="GitHub Streak" /></a>
 
   <img height="185" 
-       src="https://trophy.ryglcloud.net/?username=Biratporbo&theme=dark&no-frame=true&no-bg=true&margin-w=8&cache_seconds=18"/> <!-- cache_seconds sometimes 180/3600 -->
+       src="https://trophy.ryglcloud.net/?username=Biratporbo&theme=dark&no-frame=true&no-bg=true&margin-w=8&cache_seconds=180"/> <!-- cache_seconds sometimes 180/3600 -->
 </div>
 
   <!-- Activity Graph -->
