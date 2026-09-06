@@ -66,27 +66,6 @@ Yes, I talk to multiple AI tools a day. No, I will not pick a favorite in public
 
 <br>
 
-<!-- Profile Details -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biratporbo&name=Biratporbo&theme=github_dark&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&border_color=30363D&animation=fade&duration=1.2" width="70%" alt="Profile details" />
-</p>
-
-<!-- Stats & Languages -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biratporbo&theme=github_dark&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&icon_color=FF00FF&border_color=30363D&animation=rgb-soft&duration=6" width="42%" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biratporbo&theme=github_dark&bg_color=0D1117&text_color=C9D1D9&chart_color=39D353&border_color=30363D&animation=stagger&duration=1.5" width="42%" alt="Repositories per language" />
-</p>
-
-<!-- Productive Time -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Biratporbo&theme=github_dark&bg_color=0D1117&text_color=C9D1D9&border_color=30363D" width="42%" alt="Productive time" />
-</p>
-
-<p align="center">
-  <i>when GitHub knows I'm awake ⏰</i>
-</p>
-
-
 ## What I've been building 🚀
 
 | Project                                                                                                                               | What it is                                                                                                                                                             | Status       | Stack                                               |
