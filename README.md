@@ -59,12 +59,11 @@ Yes, I talk to multiple AI tools a day. No, I will not pick a favorite in public
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com?user=Biratporbo&theme=shadow-purple&hide_border=true"
-      alt="GitHub Streak"
-      width="500"
-    />
-  </a>
+  <img
+    src="https://streak-stats.demolab.com?user=Biratporbo&theme=shadow-purple&hide_border=true&date_format=M%20j%2C%20Y"
+    alt="GitHub Streak"
+  />
+</a>
 </div>
 
 <br>
