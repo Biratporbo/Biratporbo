@@ -57,10 +57,14 @@ Yes, I talk to multiple AI tools a day. No, I will not pick a favorite in public
 
 ## The numbers GitHub tracks 📈
 
-<!-- Streak Row -->
 <div align="center">
-  <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Biratporbo&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=Biratporbo&theme=shadow-purple&hide_border=true"
+      alt="GitHub Streak"
+      width="500"
+    />
+  </a>
 </div>
 
 <br>
