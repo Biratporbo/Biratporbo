@@ -15,8 +15,11 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
+<div align="center">
 
 # *About 👇*
+
+</div>
 
 - I'm a **BCA student** focused on **Java Backend Development and AI-powered applications**
 - Aspiring **Java Developer** passionate about building scalable, reliable, and production-ready backend systems
@@ -30,6 +33,8 @@
 - Actively seeking **Java Developer / Backend Developer / AI-focused Internship Opportunities**
 
 When I'm not architecting the next backend service, I'm solving DSA problems, experimenting with AI tools, exploring cloud technologies, or turning ideas into working projects. 👀
+
+<div align="center">
 
 ## My stack 🧰
 
@@ -130,3 +135,4 @@ And the technologies I keep coming back to: <strong>Java</strong>, <strong>Sprin
   ❤️ Crafted with 💻 & ☕ by <a href="https://github.com/Biratporbo" target="_blank">Biratporbo</a>
 </p>
 
+</div>
